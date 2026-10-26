@@ -18,7 +18,7 @@ Apply these to all code you write, edit, or review, in every language and every 
 
 ## Writing the change
 
-- Match the project's existing style, naming, and libraries. Read nearby code first; do not introduce a new pattern or dependency where an established one already fits.
+- Match the project's existing style, naming, and libraries, where it does not conflict with these rules. Read nearby code first; do not introduce a new pattern or dependency where an established one already fits.
 - Solve the problem that was asked, in a way that creates as small a diff as possible given other constraints.
 - Do not add features, abstractions, or defensive code the task does not need.
 - Prefer clear names over explanatory comments: a well-named variable or function removes the need for the comment.
