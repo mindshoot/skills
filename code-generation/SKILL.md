@@ -12,6 +12,7 @@ Apply these to all code you write, edit, or review, in every language and every 
 
 - NEVER write comments that refer to how the code previously looked - the history is available in git if needed.
 - NEVER write comments that a competent programmer could deduce from the code itself (example: `DEFAULT_TIMEOUT = '60min' # set a default timeout of 60 minutes`) - it creates a maintenance burden to keep in sync with the code.
+- NEVER include a specific constant value in a comment: it adds future work to keep in sync (eg "default", not "default of 20min").
 - ONLY write comments where they add context that the code itself can't provide (eg the reason why an unusual approach was used).
 - Never use an em dash in a comment. Use a colon or rewrite the sentence.
 
