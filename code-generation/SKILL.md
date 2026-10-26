@@ -1,8 +1,8 @@
---
+---
 name: code-generation
 description: Global rules that apply for ALL coding
 always: true
---
+---
 
 # Code generation rules
 
