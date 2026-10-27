@@ -1,8 +1,6 @@
 ---
 name: code-authoring
-description: >
-  Follow these guidelines when generating, writing, editing, or modifying code or functions.
-  Use when implementing features, fixing bugs, adding tests, refactoring, or making any other code changes.
+description: Follow these guidelines when generating, writing, editing, or modifying code or functions. Use when implementing features, fixing bugs, adding tests, refactoring, or making any other code changes.
 ---
 
 # Code generation rules
